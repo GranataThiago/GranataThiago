@@ -1,5 +1,5 @@
 <h1 align="left">Hola 👋, soy Thiago</h1>
-<h3 align="left">♥ Desarrollador autodidacta de 18 años</h3>
+<h3 align="left">🙋‍♂️ Desarrollador autodidacta de 18 años</h3>
 
 - 🔭 Actualmente estoy trabajando en [coloricker](https://github.com/GranataThiago/coloricker-front)
 
