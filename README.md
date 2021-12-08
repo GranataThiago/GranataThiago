@@ -1,11 +1,4 @@
-<h1 align="left">Hola 👋, soy Thiago</h1>
-<h3 align="left">Desarrollador</h3>
-
-- 🔭 Actualmente estoy trabajando en [coloricker](https://github.com/GranataThiago/coloricker-front)
-
-- 🌱 Me encuentro aprendiendo **Desarrollo Fullstack**
-
-- 📫 Contacto **granatathiago@gmail.com**
+<h1 align="left">Thiago Granata</h1>
 
 <hr>
 
