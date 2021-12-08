@@ -1,5 +1,9 @@
 <h1 align="left">Thiago Granata</h1>
 
+- 🌱 Me encuentro aprendiendo **Desarrollo Fullstack**
+
+- 📫 Contacto **granatathiago@gmail.com**
+
 <hr>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
