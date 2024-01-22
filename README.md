@@ -1,5 +1,7 @@
 <h1 align="left">Thiago Granata - @tmgranata</h1>
 
+![Header](https://github.com/GranataThiago/GranataThiago/assets/49692685/dd0e4a2a-3ad4-4b09-8d8d-e003b2b14c48)
+
 Hola 👋 soy Thiago
 Desarrollador Fullstack utilizando en React/Next, Express, PostgreSQL y MongoDB.  
 
