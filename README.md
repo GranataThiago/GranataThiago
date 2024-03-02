@@ -11,7 +11,7 @@ Me intereso especialmente por aspectos como SEO, accesibilidad y optimización d
 
 ### Encontrame en:
 - Mi blog: [tmgranata.com](https://www.tmgranata.com/)
-  - Mi último artículo: [¿Qué es el SEO?](https://www.tmgranata.com/blog/seo)
+  - Mi último artículo: [El servidor y el cliente](https://www.tmgranata.com/blog/servidor-cliente)
 - Compartiendo contenido: [Twitter](https://twitter.com/tmgranata) ó [Linkedin](https://www.linkedin.com/in/thiago-granata-971804216)
 
 ### Lenguajes 🧑‍💻
